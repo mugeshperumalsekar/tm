@@ -1,0 +1,28 @@
+.green-text {
+    color: green;
+}
+
+.red-text {
+    color: red;
+}
+
+.yellow-text {
+    color: rgb(255, 0, 200);
+}
+
+.activeButton {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.activeButton.active {
+    background-color: #0056b3;
+}
+
+.activeButton.active {
+    background-color: #0056b3;
+}
